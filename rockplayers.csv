@@ -1,37 +1,37 @@
-nombre,apellido,edad,banda,pais,estilo,vivo,album_famoso,premio,emocion_musica,rehabilitado,intensidad_escenario,popularidad,técnica_fav,repertorio_tecnicas,velocidad_promedio_bpm,mensaje_lyrics,emocion_fans,controversial,mediatico,afinidad_generacional
-Jimi,Hendrix,27,The Jimi Hendrix Experience,EEUU,Rock Psicodélico,False,Are You Experienced,Grammy Lifetime Achievement Award,Éxtasis,False,10,10,Feedback/Bending,"Bending, Feedback, Wah, Improvisación",140,Introspectivo,Euforia,8,9,Boomers
-Jimmy,Page,80,Led Zeppelin,Inglaterra,Hard Rock,True,Led Zeppelin IV,Rock and Roll Hall of Fame,Misticismo,True,8,10,Arpegios y Riffs,"Arpegios, Riffs, Slide, Dobro",120,Espiritual,Nostalgia,6,10,Boomers
-Eddie,Van Halen,65,Van Halen,EEUU,Hard Rock,False,1984,MTV Video Music Award,Euforia,True,9,10,Tapping,"Tapping, Armónicos, Whammy",160,Positivo,Euforia,5,10,GenX
-Tony,Iommi,76,Black Sabbath,Inglaterra,Heavy Metal,True,Paranoid,Rock and Roll Hall of Fame,Oscuridad,False,8,9,Riffs Oscuros,"Riffs, Trítonos, Power Chords",120,Caos,Furia,7,8,Boomers
-Kirk,Hammett,61,Metallica,EEUU,Thrash Metal,True,Master of Puppets,Grammy Awards,Furia,False,9,10,Wah/Lead,"Alternate Picking, Wah, Tremolo Picking",200,Protesta,Euforia,5,10,GenX
-Slash,,59,Guns N' Roses,Inglaterra,Hard Rock,True,Appetite for Destruction,Rock and Roll Hall of Fame,Adrenalina,True,10,10,Bending/Les Paul,"Bending, Vibrato, Solos Melódicos",150,Amor,Euforia,4,10,GenX
-Dave,Murray,68,Iron Maiden,Inglaterra,Heavy Metal,True,The Number of the Beast,Metal Hammer Golden Gods,Épica,False,9,9,Legato,"Legato, Twin Leads, Alternate Picking",170,Épico,Inspiración,3,8,Boomers
-Randy,Rhoads,25,Ozzy Osbourne,EEUU,Heavy Metal,False,Blizzard of Ozz,Rock and Roll Hall of Fame,Inspiración,False,8,9,Neoclásico,"Tapping, Sweep Picking, Vibrato",160,Espiritual,Nostalgia,3,9,Boomers
-Joe,Satriani,68,Solista,EEUU,Instrumental Rock,True,Surfing with the Alien,Grammy Nominations,Virtuosismo,False,9,8,Legato/Modal,"Legato, Modal, Whammy, Two-Handed",150,Instrumental,Inspiración,2,7,GenX
-Dimebag,Darrell,38,Pantera,EEUU,Groove Metal,False,Vulgar Display of Power,Metal Hammer Golden Gods,Rabia,False,10,9,Harmonics/Dive Bombs,"Pinch Harmonics, Whammy, Groove Riffs",190,Protesta,Euforia,6,9,GenX
-Zakk,Wylde,57,Black Label Society,EEUU,Heavy Metal,True,Mafia,Metal Hammer Golden Gods,Intensidad,True,9,8,Pinch Harmonics,"Pinch Harmonics, Vibrato, Pentatónica",170,Protesta,Euforia,5,8,GenX
-Jeff,Hanneman,49,Slayer,EEUU,Thrash Metal,False,Reign in Blood,Grammy Awards,Agresión,False,10,9,Tremolo Picking,"Tremolo Picking, Riffs Rápidos, Palm Muting",220,Protesta,Furia,6,8,GenX
-Chuck,Schuldiner,34,Death,EEUU,Death Metal,False,Symbolic,Metal Hall of Fame,Profundidad,False,9,8,Technical Riffs,"Technical Picking, Tempo Changes, Growl",200,Introspectivo,Inspiración,5,7,GenX
-Marty,Friedman,61,Megadeth,EEUU,Thrash Metal,True,Rust in Peace,Grammy Nominations,Precisión,False,9,8,Exótico/Outside,"Exotic Scales, Alternate Picking, Bends",180,Protesta,Inspiración,3,7,GenX
-Michael,Amott,56,Arch Enemy,Suecia,Melodic Death Metal,True,Wages of Sin,Metal Hammer Golden Gods,Poder,False,8,7,Melódico,"Melodic Leads, Harmony Guitars, Palm Muting",180,Protesta,Euforia,3,6,Millennials
-Alexi,Laiho,41,Children of Bodom,Finlandia,Melodic Death Metal,False,Follow the Reaper,Metal Hammer Golden Gods,Caos,False,10,8,Shred/Neoclásico,"Sweep Picking, Tapping, Alternate Picking",210,Caos,Euforia,6,7,Millennials
-Kiko,Loureiro,52,Megadeth,Brasil,Thrash Metal,True,Dystopia,Grammy Awards,Energía,False,9,8,Híbrido,"Hybrid Picking, Sweep, Alternate Picking",190,Protesta,Inspiración,3,7,Millennials
-Yngwie,Malmsteen,61,Solista,Suecia,Neoclassical Metal,True,Rising Force,Guitar World Hall of Fame,Virtuosismo,False,9,8,Sweep/Arpegios,"Sweep Picking, Arpegios, Alternate Picking",200,Espiritual,Inspiración,5,8,Boomers
-Andreas,Kisser,57,Sepultura,Brasil,Thrash Metal,True,Chaos A.D.,Metal Hammer Golden Gods,Fuerza,False,8,7,Riffs Tribal,"Groove Riffs, Percussive, Alternate Picking",180,Protesta,Euforia,4,6,GenX
-Ricky,Espinosa,34,Flema,Argentina,Punk Rock,False,El Exceso,-,Rebeldía,False,8,7,Power Chords,"Power Chords, Gritos, Distorsión",190,Protesta,Euforia,8,7,GenX
-Walter,Velázquez,55,Dos Minutos,Argentina,Punk Rock,True,Valentín Alsina,-,Rebeldía,True,8,7,Ritmo Punk,"Acordes Rápidos, Palm Muting",200,Protesta,Euforia,7,6,Millennials
-Dexter,Holland,58,The Offspring,EEUU,Punk Rock,True,Americana,Billboard Awards,Diversión,False,9,9,Palm Muting,"Power Chords, Palm Muting, Coros",180,Protesta,Euforia,6,7,Millennials
-Greg,Graffin,59,Bad Religion,EEUU,Punk Rock,True,Suffer,-,Reflexión,False,8,8,Voz Melódica,"Letras Intelectuales, Coros",190,Protesta,Inspiración,5,6,GenX
-Fletcher,Dragge,58,Pennywise,EEUU,Punk Rock,True,About Time,-,Energía,False,9,8,Downstrokes,"Downstrokes, Power Chords, Coros",190,Protesta,Euforia,5,6,GenX
-Billie Joe,Armstrong,52,Green Day,EEUU,Punk Rock,True,American Idiot,Grammy Awards,Euforia,True,9,10,Power Chords,"Punk Melódico, Coros",180,Protesta,Inspiración,8,9,Millennials
-Tom,DeLonge,49,Blink-182,EEUU,Pop Punk,True,Enema of the State,-,Diversión,False,8,9,Power Chords,"Palm Muting, Coros, Riffs Simples",176,Amor,Alegría,6,9,Millennials
-Deryck,Whibley,45,Sum 41,Canadá,Pop Punk,True,All Killer No Filler,-,Energía,True,9,8,Palm Muting,"Power Chords, Coros, Riffs",182,Protesta,Euforia,6,7,Millennials
-Doyle,Wolfgang,60,Misfits,EEUU,Horror Punk,True,Walk Among Us,-,Oscuridad,False,9,8,Downstrokes,"Power Chords, Downstrokes, Coros",190,Caos,Euforia,7,7,GenX
-Jonny,Greenwood,53,Radiohead,Inglaterra,Alternative Rock,True,OK Computer,Grammy Awards,Inquietud,False,7,9,Texturas/Sintetizadores,"Arpegios, Texturas, FX, Ondas Martenot",120,Introspectivo,Nostalgia,3,9,Millennials
-Joey,Santiago,59,Pixies,EEUU,Alternative Rock,True,Doolittle,-,Tensión,False,8,8,Bends/Noises,"Bends, Feedback, Staccato Riffs",150,Introspectivo,Inspiración,3,7,GenX
-Mick,Mars,73,Mötley Crüe,EEUU,Glam Metal,True,Dr. Feelgood,-,Adrenalina,False,8,9,Riffs Pesados,"Palm Muting, Riffs, Vibrato",160,Amor,Euforia,6,9,Boomers
-Angus,Young,70,AC/DC,Australia,Hard Rock,True,Back in Black,-,Euforia,False,10,10,Duckwalk Riffs,"Blues Rock Riffs, Power Chords, Solos",160,Positivo,Euforia,4,10,Boomers
-Andrés,Calamaro,63,Solista,Argentina,Rock/Pop,True,Alta Suciedad,Premio Gardel,Melancolía,True,7,9,Composición,"Composición, Piano, Guitarra",110,Amor,Nostalgia,5,9,GenX
-Ihsahn,,49,Emperor,Noruega,Black Metal,True,In the Nightside Eclipse,-,Frialdad,False,9,8,Tremolo/Atmosférico,"Tremolo Picking, Arpegios Oscuros, Coros",210,Espiritual,Euforia,7,7,GenX
-Quorthon,,39,Bathory,Suecia,Black/ Viking Metal,False,Under the Sign of the Black Mark,-,Oscuridad,False,9,8,Raw Riffs,"Tremolo, Riffs Crudos, Coros Épicos",200,Espiritual,Nostalgia,8,6,Boomers
-Nils,Andersson,40,Dethrone,Suecia,Death/Black Metal,True,Incinerate All,-,Agresión,False,9,7,Blast/Alt Pick,"Blast Beats (banda), Alternate Picking, Riffs",210,Protesta,Furia,5,5,Millennials
+nombre,apellido,edad,banda,pais,estilo,vivo,album_famoso,premio,emocion_musica,rehabilitado,intensidad_escenario,popularidad,técnica_fav,repertorio_tecnicas,velocidad_promedio_bpm,mensaje_lyrics,emocion_fans,controversial,mediatico,afinidad_generacional,guitar
+Jimi,Hendrix,27,The Jimi Hendrix Experience,EEUU,Rock Psicodélico,False,Are You Experienced,Grammy Lifetime Achievement Award,Éxtasis,False,10,10,Feedback/Bending,"Bending, Feedback, Wah, Improvisación",140,Introspectivo,Euforia,8,9,Boomers,Fender Stratocaster
+Jimmy,Page,80,Led Zeppelin,Inglaterra,Hard Rock,True,Led Zeppelin IV,Rock and Roll Hall of Fame,Misticismo,True,8,10,Arpegios y Riffs,"Arpegios, Riffs, Slide, Dobro",120,Espiritual,Nostalgia,6,10,Boomers,Gibson Les Paul Standard
+Eddie,Van Halen,65,Van Halen,EEUU,Hard Rock,False,1984,MTV Video Music Award,Euforia,True,9,10,Tapping,"Tapping, Armónicos, Whammy",160,Positivo,Euforia,5,10,GenX,Frankenstrat
+Tony,Iommi,76,Black Sabbath,Inglaterra,Heavy Metal,True,Paranoid,Rock and Roll Hall of Fame,Oscuridad,False,8,9,Riffs Oscuros,"Riffs, Trítonos, Power Chords",120,Caos,Furia,7,8,Boomers,Gibson SG
+Kirk,Hammett,61,Metallica,EEUU,Thrash Metal,True,Master of Puppets,Grammy Awards,Furia,False,9,10,Wah/Lead,"Alternate Picking, Wah, Tremolo Picking",200,Protesta,Euforia,5,10,GenX,ESP KH-2
+Slash,,59,Guns N' Roses,Inglaterra,Hard Rock,True,Appetite for Destruction,Rock and Roll Hall of Fame,Adrenalina,True,10,10,Bending/Les Paul,"Bending, Vibrato, Solos Melódicos",150,Amor,Euforia,4,10,GenX,Gibson Les Paul Standard
+Dave,Murray,68,Iron Maiden,Inglaterra,Heavy Metal,True,The Number of the Beast,Metal Hammer Golden Gods,Épica,False,9,9,Legato,"Legato, Twin Leads, Alternate Picking",170,Épico,Inspiración,3,8,Boomers,Fender Stratocaster
+Randy,Rhoads,25,Ozzy Osbourne,EEUU,Heavy Metal,False,Blizzard of Ozz,Rock and Roll Hall of Fame,Inspiración,False,8,9,Neoclásico,"Tapping, Sweep Picking, Vibrato",160,Espiritual,Nostalgia,3,9,Boomers,Jackson RR
+Joe,Satriani,68,Solista,EEUU,Instrumental Rock,True,Surfing with the Alien,Grammy Nominations,Virtuosismo,False,9,8,Legato/Modal,"Legato, Modal, Whammy, Two-Handed",150,Instrumental,Inspiración,2,7,GenX,Ibanez JS
+Dimebag,Darrell,38,Pantera,EEUU,Groove Metal,False,Vulgar Display of Power,Metal Hammer Golden Gods,Rabia,False,10,9,Harmonics/Dive Bombs,"Pinch Harmonics, Whammy, Groove Riffs",190,Protesta,Euforia,6,9,GenX,Dean ML
+Zakk,Wylde,57,Black Label Society,EEUU,Heavy Metal,True,Mafia,Metal Hammer Golden Gods,Intensidad,True,9,8,Pinch Harmonics,"Pinch Harmonics, Vibrato, Pentatónica",170,Protesta,Euforia,5,8,GenX,Gibson Les Paul Custom (Bullseye)
+Jeff,Hanneman,49,Slayer,EEUU,Thrash Metal,False,Reign in Blood,Grammy Awards,Agresión,False,10,9,Tremolo Picking,"Tremolo Picking, Riffs Rápidos, Palm Muting",220,Protesta,Furia,6,8,GenX,ESP JH
+Chuck,Schuldiner,34,Death,EEUU,Death Metal,False,Symbolic,Metal Hall of Fame,Profundidad,False,9,8,Technical Riffs,"Technical Picking, Tempo Changes, Growl",200,Introspectivo,Inspiración,5,7,GenX,B.C. Rich Stealth
+Marty,Friedman,61,Megadeth,EEUU,Thrash Metal,True,Rust in Peace,Grammy Nominations,Precisión,False,9,8,Exótico/Outside,"Exotic Scales, Alternate Picking, Bends",180,Protesta,Inspiración,3,7,GenX,Jackson Kelly
+Michael,Amott,56,Arch Enemy,Suecia,"Melodic Metal, Death Metal",True,Wages of Sin,Metal Hammer Golden Gods,Poder,False,8,7,Melódico,"Melodic Leads, Harmony Guitars, Palm Muting",180,Protesta,Euforia,3,6,Millennials,Dean Michael Amott Tyrant
+Alexi,Laiho,41,Children of Bodom,Finlandia,"Melodic Metal, Death Metal",False,Follow the Reaper,Metal Hammer Golden Gods,Caos,False,10,8,Shred/Neoclásico,"Sweep Picking, Tapping, Alternate Picking",210,Caos,Euforia,6,7,Millennials,ESP Alexi Laiho
+Kiko,Loureiro,52,Megadeth,Brasil,Thrash Metal,True,Dystopia,Grammy Awards,Energía,False,9,8,Híbrido,"Hybrid Picking, Sweep, Alternate Picking",190,Protesta,Inspiración,3,7,Millennials,Ibanez Kiko
+Yngwie,Malmsteen,61,Solista,Suecia,Neoclassical Metal,True,Rising Force,Guitar World Hall of Fame,Virtuosismo,False,9,8,Sweep/Arpegios,"Sweep Picking, Arpegios, Alternate Picking",200,Espiritual,Inspiración,5,8,Boomers,Fender Stratocaster
+Andreas,Kisser,57,Sepultura,Brasil,Thrash Metal,True,Chaos A.D.,Metal Hammer Golden Gods,Fuerza,False,8,7,Riffs Tribal,"Groove Riffs, Percussive, Alternate Picking",180,Protesta,Euforia,4,6,GenX,ESP Explorer
+Ricky,Espinosa,34,Flema,Argentina,Punk Rock,False,El Exceso,-,Rebeldía,False,8,7,Power Chords,"Power Chords, Gritos, Distorsión",190,Protesta,Euforia,8,7,GenX,Fender Telecaster
+Walter,Velázquez,55,Dos Minutos,Argentina,Punk Rock,True,Valentín Alsina,-,Rebeldía,True,8,7,Ritmo Punk,"Acordes Rápidos, Palm Muting",200,Protesta,Euforia,7,6,Millennials,Gibson SG
+Dexter,Holland,58,The Offspring,EEUU,Punk Rock,True,Americana,Billboard Awards,Diversión,False,9,9,Palm Muting,"Power Chords, Palm Muting, Coros",180,Protesta,Euforia,6,7,Millennials,Ibanez RG
+Greg,Graffin,59,Bad Religion,EEUU,Punk Rock,True,Suffer,-,Reflexión,False,8,8,Voz Melódica,"Letras Intelectuales, Coros",190,Protesta,Inspiración,5,6,GenX,Gibson ES-335
+Fletcher,Dragge,58,Pennywise,EEUU,Punk Rock,True,About Time,-,Energía,False,9,8,Downstrokes,"Downstrokes, Power Chords, Coros",190,Protesta,Euforia,5,6,GenX,Gibson Les Paul Junior
+Billie Joe,Armstrong,52,Green Day,EEUU,Punk Rock,True,American Idiot,Grammy Awards,Euforia,True,9,10,Power Chords,"Punk Melódico, Coros",180,Protesta,Inspiración,8,9,Millennials,Fernandes Strat (Blue)
+Tom,DeLonge,49,Blink-182,EEUU,Pop Punk,True,Enema of the State,-,Diversión,False,8,9,Power Chords,"Palm Muting, Coros, Riffs Simples",176,Amor,Alegría,6,9,Millennials,Fender Stratocaster Tom DeLonge
+Deryck,Whibley,45,Sum 41,Canadá,Pop Punk,True,All Killer No Filler,-,Energía,True,9,8,Palm Muting,"Power Chords, Coros, Riffs",182,Protesta,Euforia,6,7,Millennials,Gibson Les Paul Standard
+Doyle,Wolfgang,60,Misfits,EEUU,Horror Punk,True,Walk Among Us,-,Oscuridad,False,9,8,Downstrokes,"Power Chords, Downstrokes, Coros",190,Caos,Euforia,7,7,GenX,Gibson Les Paul (Custom mod)
+Jonny,Greenwood,53,Radiohead,Inglaterra,Alternative Rock,True,OK Computer,Grammy Awards,Inquietud,False,7,9,Texturas/Sintetizadores,"Arpegios, Texturas, FX, Ondas Martenot",120,Introspectivo,Nostalgia,3,9,Millennials,Fender Telecaster Plus
+Joey,Santiago,59,Pixies,EEUU,Alternative Rock,True,Doolittle,-,Tensión,False,8,8,Bends/Noises,"Bends, Feedback, Staccato Riffs",150,Introspectivo,Inspiración,3,7,GenX,Gibson Les Paul Goldtop
+Mick,Mars,73,Mötley Crüe,EEUU,Glam Metal,True,Dr. Feelgood,-,Adrenalina,False,8,9,Riffs Pesados,"Palm Muting, Riffs, Vibrato",160,Amor,Euforia,6,9,Boomers,Gibson Les Paul Custom
+Angus,Young,70,AC/DC,Australia,Hard Rock,True,Back in Black,-,Euforia,False,10,10,Duckwalk Riffs,"Blues Rock Riffs, Power Chords, Solos",160,Positivo,Euforia,4,10,Boomers,Gibson SG
+Andrés,Calamaro,63,Solista,Argentina,Rock/Pop,True,Alta Suciedad,Premio Gardel,Melancolía,True,7,9,Composición,"Composición, Piano, Guitarra",110,Amor,Nostalgia,5,9,GenX,Fender Telecaster
+Ihsahn,,49,Emperor,Noruega,Black Metal,True,In the Nightside Eclipse,-,Frialdad,False,9,8,Tremolo/Atmosférico,"Tremolo Picking, Arpegios Oscuros, Coros",210,Espiritual,Euforia,7,7,GenX,Ibanez RG Prestige
+Quorthon,,39,Bathory,Suecia,"Black Metal, Viking Metal",False,Under the Sign of the Black Mark,-,Oscuridad,False,9,8,Raw Riffs,"Tremolo, Riffs Crudos, Coros Épicos",200,Espiritual,Nostalgia,8,6,Boomers,Gibson Explorer
+Nils,Andersson,40,Dethrone,Suecia,"DeathMetal, Black Metal",True,Incinerate All,-,Agresión,False,9,7,Blast/Alt Pick,"Blast Beats (banda), Alternate Picking, Riffs",210,Protesta,Furia,5,5,Millennials,ESP Horizon
